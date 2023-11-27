@@ -1,2 +1,4 @@
 # proj1-demo
- first Demo Project
+my first git repositery
+<br>
+first Demo Project
